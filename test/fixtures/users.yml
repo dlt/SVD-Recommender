@@ -1,0 +1,38 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+um: 
+  name: Ben
+  created_at: 2009-06-05 10:07:56
+  updated_at: 2009-06-05 10:07:56
+  id: "1"
+
+
+
+dois: 
+  name: Tom
+  created_at: 2009-06-05 10:08:13
+  updated_at: 2009-06-05 10:08:13
+  id: "2"
+
+
+ 
+tres: 
+  name: John
+  created_at: 2009-06-05 10:08:31
+  updated_at: 2009-06-05 10:08:31
+  id: "3"
+
+
+ 
+quatro: 
+  name: Fred
+  created_at: 2009-06-05 10:08:45
+  updated_at: 2009-06-05 10:08:45
+  id: "4"
+
+
+cinco:
+  name: Bob
+  created_at: 2009-06-05 10:33:58
+  updated_at: 2009-06-05 10:33:58
+  id: "5"
+

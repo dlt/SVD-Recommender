@@ -1,0 +1,41 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+um: 
+  name: season 1
+  created_at: 2009-06-05 10:09:27
+  updated_at: 2009-06-05 10:09:27
+  id: "1"
+ 
+dois: 
+  name: season 2
+  created_at: 2009-06-05 10:09:43
+  updated_at: 2009-06-05 10:09:43
+  id: "2"
+
+tres: 
+  name: season 3
+  created_at: 2009-06-05 10:10:03
+  updated_at: 2009-06-05 10:10:03
+  id: "3"
+
+
+quatro: 
+  name: season 4
+  created_at: 2009-06-05 10:10:21
+  updated_at: 2009-06-05 10:10:21
+  id: "4"
+
+
+cinco: 
+  name: season 5
+  created_at: 2009-06-05 10:10:21
+  updated_at: 2009-06-05 10:10:39
+  id: "5"
+
+
+seis: 
+  name: season 6
+  created_at: 2009-06-05 10:10:58
+  updated_at: 2009-06-05 10:10:58
+  id: "6"
+
